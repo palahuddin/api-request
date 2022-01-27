@@ -4,7 +4,7 @@ Simple API HTTP Request with [Go](https://pkg.go.dev/net/http/) and [Gorilla/Mux
 
 ## Running Server
 ```bash
-go init api-request && go mod tidy
+go mod init api-request && go mod tidy
 go run main.go <file.conf>
 ```
 ##
